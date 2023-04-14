@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Harisbenzz Media | Your Digital marketing Partner</title>
+    <title>Harisbenzz Media | Your Digital marketing Partner.</title>
 </head>
 
 <body>
@@ -20,7 +20,7 @@
         </header>
         <main>
             <article class="text-info">
-                <h2>We're</h2>
+                <h2>WELCOME <br>TO HARISBENZZ MEDIA</h2>
                 <h2>Coming<br>Soon</h2>
                 <p>Hello friends! We are currently building our new sports and comfort clothing store. Add your email address below to stay up-to-date with announcements and our launch proposals.</p>
                 <section class="email-signup">
