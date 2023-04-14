@@ -27,15 +27,16 @@
                     We develop innovative ideas with vast experience to give our clients appropriate results.</p>
                 <section class="email-signup">
                     <form>
-                        <select class="select" name="services" id="">
+                        <select class="select email-input" name="services" id="">
+                            <option value="Social Media Management">Select what you would like us to do for you</option>
                             <option value="Social Media Management">Social Media Management</option>
                             <option value="Website">I want a business websites</option>
                             <option value="Videography">I want a Videography</option>
                             <option value="Photography">Photography</option>
                             <option value="Product Photography">Product Photography</option>
                         </select>
-                        <input class="email-input" type="email" required placeholder="Email Address" name="email-address">
-                        <input class="email-submit" value="Go" type="submit" text="Go" for="email-address"></input>
+                        <!-- <input class="email-input" type="email" required placeholder="Email Address" name="email-address"> -->
+                        <button class="email-submit" value="Go" type="submit" text="Go" for="services"><img src="assets/imgs/icon.png" width="25px"  alt="" srcset=""></button>
                     </form>
                 </section>
             </article>
