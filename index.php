@@ -22,6 +22,7 @@
         <main>
             <article class="text-info">
                 <h2>WELCOME <br>TO HARISBENZZ MEDIA</h2>
+                <h3>TO HARISBENZZ MEDIA</h3>
                 <h2>Coming<br>Soon</h2>
                 <p>Hello friends! We are currently building our new sports and comfort clothing store. Add your email address below to stay up-to-date with announcements and our launch proposals.</p>
                 <section class="email-signup">
