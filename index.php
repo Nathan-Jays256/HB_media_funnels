@@ -27,6 +27,13 @@
                     We develop innovative ideas with vast experience to give our clients appropriate results.</p>
                 <section class="email-signup">
                     <form>
+                        <select name="services" id="">
+                            <option value="Social Media Management">Social Media Management</option>
+                            <option value="Website">I want a business websites</option>
+                            <option value="Videography">I want a Videography</option>
+                            <option value="Photography">Photography</option>
+                            <option value="Product Photography">Product Photography</option>
+                        </select>
                         <input class="email-input" type="email" required placeholder="Email Address" name="email-address">
                         <input class="email-submit" value="Go" type="submit" text="Go" for="email-address"></input>
                     </form>

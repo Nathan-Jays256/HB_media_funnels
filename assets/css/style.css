@@ -104,8 +104,8 @@
   .text-info h2:nth-child(1) {
     color: #dcbf61;
     font-weight: normal;
-    padding-top: 1.8rem;
-    padding-bottom: 1rem;
+    /* padding-top: 1.8rem; */
+    /* padding-bottom: 1rem; */
   }
   
   .text-info h2 {
@@ -117,7 +117,7 @@
   }
 
 h2.company_name {
-    font-size: 2.3rem !important;
+    font-size: 2.1rem !important;
     font-weight: 600;
 }
   
@@ -178,12 +178,12 @@ h2.company_name {
       height: inherit;
       max-width: 100%;
       margin: 0 auto;
-      padding-left: 3.5rem;
+      /* padding-left: 3.5rem; */
     }
   
     .mobile-container {
       width: 45vw;
-      display: flex;
+      /* display: flex; */
       flex-direction: column;
       justify-content: space-around;
     }
@@ -212,11 +212,11 @@ h2.company_name {
     }
   
     .text-info h2 {
-      font-size: 3.8rem;
+      font-size: 1.9rem;
     }
   
     .text-info p {
-      font-size: 16px;
+      font-size: 14px;
     }
   
     .text-info input {
