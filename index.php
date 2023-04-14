@@ -23,7 +23,8 @@
             <article class="text-info">
                 <h2>Welcome to</h2>
                 <h2>Harisbenzz Media</h2>
-                <p>Hello friends! We are currently building our new sports and comfort clothing store. Add your email address below to stay up-to-date with announcements and our launch proposals.</p>
+                <p>We're a full-service Digital Marketing and Production Agency, which delivers captivating result-oriented Digital Marketing Services in the areas of Advertising, Marketing, Branding, Production and Social Media. 
+                    We develop innovative ideas with vast experience to give our clients appropriate results.</p>
                 <section class="email-signup">
                     <form>
                         <input class="email-input" type="email" required placeholder="Email Address" name="email-address">
