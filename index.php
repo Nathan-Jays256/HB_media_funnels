@@ -22,7 +22,7 @@
         <main>
             <article class="text-info">
                 <h2>Welcome to</h2>
-                <h2>Harisbenzz Media</h2>
+                <h2 class="company_name">Harisbenzz Media</h2>
                 <p>We're a full-service Digital Marketing and Production Agency, which delivers captivating result-oriented Digital Marketing Services in the areas of Advertising, Marketing, Branding, Production and Social Media. 
                     We develop innovative ideas with vast experience to give our clients appropriate results.</p>
                 <section class="email-signup">
