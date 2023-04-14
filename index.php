@@ -27,7 +27,7 @@
                     We develop innovative ideas with vast experience to give our clients appropriate results.</p>
                 <section class="email-signup">
                     <form>
-                        <select name="services" id="">
+                        <select class="select" name="services" id="">
                             <option value="Social Media Management">Social Media Management</option>
                             <option value="Website">I want a business websites</option>
                             <option value="Videography">I want a Videography</option>
