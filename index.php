@@ -13,7 +13,7 @@
         <header>
             <section class="hero-banner">
                 <div class="logo-wrapper">
-                    <img src="https://assets.codepen.io/6060109/2560px-Adidas_Logo+1.png" alt="Adidas logo.">
+                    <img src="assets/imgs/logo.png" alt="Harisbenzz Media logo.">
                 </div>
                 <div class="hero-image"></div>
             </section>
