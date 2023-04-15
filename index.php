@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Harisbenzz Media | Your Digital marketing Partner.</title>
+	<link rel="icon" href="assets/imgs/icon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
@@ -23,9 +24,37 @@
             <article class="text-info">
                 <h2>Welcome to</h2>
                 <h2 class="company_name">Harisbenzz Media</h2>
-                <p>We're a full-service Digital Marketing and Production Agency, which delivers captivating result-oriented Digital Marketing Services in the areas of Advertising, Marketing, Branding, Production and Social Media. 
+                <p>We're a full-service Digital Marketing and Production Agency, which delivers captivating result-oriented Digital Marketing Services in the areas of Advertising, Marketing, Branding, Production and Social Media.
                     We develop innovative ideas with vast experience to give our clients appropriate results.</p>
-                <section class="email-signup">
+                <div class="">
+                    <ul class="tags">
+                        <li><a href="#" class="tag_style">#Social Media Management<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                        <li><a  href="#" class="tag_style">#Videography<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                        <li><a href="" class="tag_style">#Photography<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                        <li><a href="#" class="tag_style">#Branding<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                        <li><a href="#" class="tag_style">#Printing<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                        <li><a href="#" class="tag_style">#Website Development<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                        <li><a href="#" class="tag_style">#Content Creation<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                        <li><a href="#" class="tag_style">#Digital Marketing<span>
+                                    <p class="tag_count">View more</p>
+                                </span></a></li>
+                    </ul>
+                </div>
+                <!-- <section class="email-signup">
                     <form>
                         <select class="select email-input" name="services" id="">
                             <option value="Social Media Management">Select what you would like us to do for you</option>
@@ -35,10 +64,10 @@
                             <option value="Photography">Photography</option>
                             <option value="Product Photography">Product Photography</option>
                         </select>
-                        <!-- <input class="email-input" type="email" required placeholder="Email Address" name="email-address"> -->
+                        <input class="email-input" type="email" required placeholder="Email Address" name="email-address">
                         <button class="email-submit" value="Go" type="submit" text="Go" for="services"><img src="assets/imgs/icon.png" width="25px"  alt="" srcset=""></button>
                     </form>
-                </section>
+                </section> -->
             </article>
         </main>
     </div>
