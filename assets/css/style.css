@@ -108,6 +108,11 @@ input {
   /* padding-bottom: 1rem; */
 }
 
+.our_services {
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+
 .text-info h2 {
   font-size: 1.5rem;
   margin-top: -14px;
@@ -221,6 +226,15 @@ h2.company_name {
   .text-info h2 {
     font-size: 1.2rem;
   }
+
+h2.our_services {
+    text-transform: capitalize;
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: #403f3f !important;
+    margin: -1px 0px 9px 13px;
+    font-weight: 600 !important;
+}
 
   .text-info p {
     font-size: 14px;

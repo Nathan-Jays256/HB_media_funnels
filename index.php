@@ -27,29 +27,30 @@
                 <p>We're a full-service Digital Marketing and Production Agency, which delivers captivating result-oriented Digital Marketing Services in the areas of Advertising, Marketing, Branding, Production and Social Media.
                     We develop innovative ideas with vast experience to give our clients appropriate results.</p>
                 <div class="">
+                <h2 class="our_services">Ckeckout our Services</h2>
                     <ul class="tags">
-                        <li><a onclick="redirectFunc('Social')" class="tag_style">#Social Media Management<span>
+                        <li><a onclick="redirectFunc('Social')" class="tag_style">Social Media Management<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a onclick="redirectFunc('Video')" class="tag_style">#Videography<span>
+                        <li><a onclick="redirectFunc('Video')" class="tag_style">Videography<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a onclick="redirectFunc('Photography')" class="tag_style">#Photography<span>
+                        <li><a onclick="redirectFunc('Photography')" class="tag_style">Photography<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a onclick="redirectFunc('Branding')" class="tag_style">#Branding<span>
+                        <li><a onclick="redirectFunc('Branding')" class="tag_style">Branding<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a onclick="redirectFunc('Printing')" class="tag_style">#Printing<span>
+                        <li><a onclick="redirectFunc('Printing')" class="tag_style">Printing<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a onclick="redirectFunc('Website')" class="tag_style">#Website Development<span>
+                        <li><a onclick="redirectFunc('Website')" class="tag_style">Website Development<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a onclick="redirectFunc('Content')" class="tag_style">#Content Creation<span>
+                        <li><a onclick="redirectFunc('Content')" class="tag_style">Content Creation<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a onclick="redirectFunc('Digital')" class="tag_style">#Digital Marketing<span>
+                        <li><a onclick="redirectFunc('Digital')" class="tag_style">Digital Marketing<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
                     </ul>
@@ -72,7 +73,7 @@
         </main>
     </div>
     <div class="hero-image-desktop">
-        <img src="https://assets.codepen.io/6060109/athlete-big.png" alt="Femail athlete squinting towards the camera.">
+        <img src="assets/imgs/athlete-big.webp" alt="Femail athlete squinting towards the camera.">
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
@@ -86,22 +87,22 @@
                     window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
                     break
                 case "Photography":
-                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    window.open('https://harisbenzzmedia.com/service/S-146373', '_blank');
                     break
                 case "Branding":
-                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    window.open('https://harisbenzzmedia.com/service/S-434493', '_blank');
                     break
                 case "Printing":
-                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    window.open('https://harisbenzzmedia.com/service/S-434493', '_blank');
                     break
                 case "Website":
-                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    window.open('https://harisbenzzmedia.com/service/S-293848', '_blank');
                     break
                 case "Content":
-                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    window.open('https://harisbenzzmedia.com/contact', '_blank');
                     break
                 case "Digital":
-                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    window.open('https://harisbenzzmedia.com/', '_blank');
                     break
                 default:
                     alert(".....");
