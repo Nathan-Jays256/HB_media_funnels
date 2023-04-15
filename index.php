@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Harisbenzz Media | Your Digital marketing Partner.</title>
-	<link rel="icon" href="assets/imgs/icon.ico" type="image/x-icon" />
+    <link rel="icon" href="assets/imgs/icon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
@@ -28,28 +28,28 @@
                     We develop innovative ideas with vast experience to give our clients appropriate results.</p>
                 <div class="">
                     <ul class="tags">
-                        <li><a href="#" class="tag_style">#Social Media Management<span>
+                        <li><a onclick="redirectFunc('Social')" class="tag_style">#Social Media Management<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a  href="#" class="tag_style">#Videography<span>
+                        <li><a onclick="redirectFunc('Video')" class="tag_style">#Videography<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a href="" class="tag_style">#Photography<span>
+                        <li><a onclick="redirectFunc('Photography')" class="tag_style">#Photography<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a href="#" class="tag_style">#Branding<span>
+                        <li><a onclick="redirectFunc('Branding')" class="tag_style">#Branding<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a href="#" class="tag_style">#Printing<span>
+                        <li><a onclick="redirectFunc('Printing')" class="tag_style">#Printing<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a href="#" class="tag_style">#Website Development<span>
+                        <li><a onclick="redirectFunc('Website')" class="tag_style">#Website Development<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a href="#" class="tag_style">#Content Creation<span>
+                        <li><a onclick="redirectFunc('Content')" class="tag_style">#Content Creation<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
-                        <li><a href="#" class="tag_style">#Digital Marketing<span>
+                        <li><a onclick="redirectFunc('Digital')" class="tag_style">#Digital Marketing<span>
                                     <p class="tag_count">View more</p>
                                 </span></a></li>
                     </ul>
@@ -74,6 +74,40 @@
     <div class="hero-image-desktop">
         <img src="https://assets.codepen.io/6060109/athlete-big.png" alt="Femail athlete squinting towards the camera.">
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script>
+        function redirectFunc(val) {
+            switch (val) {
+                case "Social":
+                    window.open('https://harisbenzzmedia.com/service/S-75775', '_blank');
+                    break
+                case "Video":
+                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    break
+                case "Photography":
+                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    break
+                case "Branding":
+                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    break
+                case "Printing":
+                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    break
+                case "Website":
+                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    break
+                case "Content":
+                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    break
+                case "Digital":
+                    window.open('https://harisbenzzmedia.com/service/S-71324', '_blank');
+                    break
+                default:
+                    alert(".....");
+            }
+        }
+    </script>
 
 </body>
 
